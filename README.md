@@ -5,7 +5,7 @@
 
 **By Robert. A Gonsalves**</br>
 
-You can see my article on Medium.
+You can see my article on [Medium](https://towardsdatascience.com/clip-and-paste-using-ai-to-create-modern-collages-from-text-prompts-38de46652827).
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
